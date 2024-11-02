@@ -10,7 +10,11 @@ Ce TP explore des techniques de traitement du langage naturel, notamment l'analy
 - Évaluation des performances de classification
 ## Langage utilisé 
  - **python**
-
+   
+## Contributeurs
+- [Fella DIB](github.com/felladib)
+- [Lina IGHILAZA](github.com/liAghZn)
+  
 ## Installation
 1. Cloner le dépôt : 
    ```bash
