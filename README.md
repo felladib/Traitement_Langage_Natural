@@ -8,6 +8,8 @@ Ce TP explore des techniques de traitement du langage naturel, notamment l'analy
 - Vectorisation avec TF-IDF et Word2Vec
 - Modélisation et classification de texte
 - Évaluation des performances de classification
+## Langage utilisé 
+ - **python**
 
 ## Installation
 1. Cloner le dépôt : 
